@@ -17,9 +17,9 @@ react-native run-android
 https://facebook.github.io/react-native/
 
 ## React Navigation
-https://reactnavigation.org/docs/en/getting-started.html
+https://reactnavigation.org/docs/en/getting-started.html <br/>
 https://reactnavigation.org/docs/en/tab-based-navigation.html
 
 ## React Native Elements
-https://react-native-training.github.io/react-native-elements/docs/getting_started.html
+https://react-native-training.github.io/react-native-elements/docs/getting_started.html <br/>
 https://react-native-training.github.io/react-native-elements/docs/searchbar.html
